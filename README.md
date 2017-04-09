@@ -1,3 +1,3 @@
 # clojure-linear-algebra
 
-Linear Algebra practice
+Linear Algebra basics brushup and trying clojure!
